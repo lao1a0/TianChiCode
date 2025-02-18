@@ -95,7 +95,11 @@
 
 # O2O优惠券使用预测 
 
-数据集介绍 [O2O优惠券使用预测数据集_数据集-阿里云天池](https://tianchi.aliyun.com/dataset/137322?spm=5176.21213303.J_qCOwPWspKEuWcmp8qiZNQ.8.6a3e2f3dlgUQAx&scm=20140722.S_community@@%E5%A4%A7%E8%B5%9B%E6%95%B0%E6%8D%AE%E9%9B%86@@137322._.ID_community@@%E5%A4%A7%E8%B5%9B%E6%95%B0%E6%8D%AE%E9%9B%86@@137322-RL_o2o%E4%BC%98%E6%83%A0%E5%88%B8%E4%BD%BF%E7%94%A8%E9%A2%84%E6%B5%8B-LOC_llm-OR_ser-V_4-RE_new6-P0_2-P1_0)  [GitHub - FNo0/o2o_dataset: o2o数据集](https://github.com/FNo0/o2o_dataset/tree/master)
+数据集介绍
+
+ [O2O优惠券使用预测数据集_数据集-阿里云天池](https://tianchi.aliyun.com/dataset/137322?spm=5176.21213303.J_qCOwPWspKEuWcmp8qiZNQ.8.6a3e2f3dlgUQAx&scm=20140722.S_community@@%E5%A4%A7%E8%B5%9B%E6%95%B0%E6%8D%AE%E9%9B%86@@137322._.ID_community@@%E5%A4%A7%E8%B5%9B%E6%95%B0%E6%8D%AE%E9%9B%86@@137322-RL_o2o%E4%BC%98%E6%83%A0%E5%88%B8%E4%BD%BF%E7%94%A8%E9%A2%84%E6%B5%8B-LOC_llm-OR_ser-V_4-RE_new6-P0_2-P1_0)  
+
+[GitHub - FNo0/o2o_dataset: o2o数据集](https://github.com/FNo0/o2o_dataset/tree/master)
 
 ## 训练集
 用户线下消费和优惠券领取行为表（offline_train.csv.zip）
@@ -167,3 +171,8 @@
 结果提交: 选手需要提交测试数据的预测结果（txt格式，只有1列预测结果）。
 
 结果评估:预测结果以mean square error作为评判标准。
+
+# 天猫用户重复购买预测
+
+https://tianchi.aliyun.com/competition/entrance/231576/information
+
